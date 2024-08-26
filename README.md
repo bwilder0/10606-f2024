@@ -25,13 +25,13 @@ This course provides a place for students to practice the necessary mathematical
 | ---- | ----------- | ----------------------------------------------------------------------------------------------- | --------------------- |
 | 1    | Mon: Aug 26 | Class intro, sets [[Slides]](files/lecture_1.pptx)                                                                               |                       |
 | 1    | Wed: Aug 28 | Linear algebra foundations                                                                      |                       |
-| 1    | Fri: Aug 30 | No recitation                                                                                   | Homework 1 due Sunday |
+| 1    | Fri: Aug 30 | No recitation                                                                                   | [Homework 1](files/F24_10606_HW1_Template.pdf) due Sunday |
 | 2    | Mon: Sep 2  | No class (Labor day)                                                                            |                       |
 | 2    | Wed: Sep 4  | More linalg foundations + vector spaces                                                         |                       |
-| 2    | Fri: Sep 6  | Recitation                                                                                      | Homework 2 due Sunday |
+| 2    | Fri: Sep 6  | Recitation                                                                                      | [Homework 2](files/F24_10606_HW2_Template.pdf) due Sunday |
 | 3    | Mon: Sep 9  | Quiz 1 + part 1 of matrix ops                                                                   |                       |
 | 3    | Wed: Sep 11 | Matrix operations and Gaussian elimination                                                      |                       |
-| 3    | Fri: Sep 13 | Recitation                                                                                      | Homework 3 due Sunday |
+| 3    | Fri: Sep 13 | Recitation                                                                                      | [Homework 3](files/F24_10606_HW3_Template.pdf) due Sunday |
 | 4    | Mon: Sep 16 | Matrix factorization, SVD, and linear regression                                                |                       |
 | 4    | Wed: Sep 18 | Matrix calculus [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) |                       |
 | 4    | Fri: Sep 20 | Recitation                                                                                      | Homework 4 due Sunday |
