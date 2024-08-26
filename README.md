@@ -9,7 +9,7 @@ Julia Liu (juliahul@andrew.cmu.edu)
 
 Office hours: see schedule in Canvas
 
-[Syllabus](syllabus_10606_f2024.pdf)
+[Syllabus](files/syllabus_10606_f2024.pdf)
 
 ## Logistics
 
