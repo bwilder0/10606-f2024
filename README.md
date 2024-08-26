@@ -23,7 +23,7 @@ This course provides a place for students to practice the necessary mathematical
 ## Course Schedule
 | Week | Dates       | Topic                                                                                           | Assignments           |
 | ---- | ----------- | ----------------------------------------------------------------------------------------------- | --------------------- |
-| 1    | Mon: Aug 26 | Class intro, sets                                                                               |                       |
+| 1    | Mon: Aug 26 | Class intro, sets [[Slides]](files/lecture_1.pptx)                                                                               |                       |
 | 1    | Wed: Aug 28 | Linear algebra foundations                                                                      |                       |
 | 1    | Fri: Aug 30 | No recitation                                                                                   | Homework 1 due Sunday |
 | 2    | Mon: Sep 2  | No class (Labor day)                                                                            |                       |
