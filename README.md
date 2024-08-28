@@ -24,7 +24,7 @@ This course provides a place for students to practice the necessary mathematical
 | Week | Dates       | Topic                                                                                           | Assignments           |
 | ---- | ----------- | ----------------------------------------------------------------------------------------------- | --------------------- |
 | 1    | Mon: Aug 26 | Class intro, sets [[Slides]](files/lecture_1.pptx)                                                                               |                       |
-| 1    | Wed: Aug 28 | Linear algebra foundations                                                                      |                       |
+| 1    | Wed: Aug 28 | Sets in python + linear algebra foundations [[Slides]](files/lecture_2.pptx) [[Colab notebook]](https://colab.research.google.com/drive/1h7FW-hC8QS3maw_zXN-3DuGEOHlalYr9?usp=sharing)                                                                      |                       |
 | 1    | Fri: Aug 30 | No recitation                                                                                   | [Homework 1](files/F24_10606_HW1_Template.pdf) due Sunday |
 | 2    | Mon: Sep 2  | No class (Labor day)                                                                            |                       |
 | 2    | Wed: Sep 4  | More linalg foundations + vector spaces                                                         |                       |
