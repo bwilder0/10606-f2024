@@ -11,6 +11,8 @@ Office hours: see schedule in Canvas
 
 [Syllabus](files/syllabus_10606_f2024.pdf)
 
+[Shared google drive](https://drive.google.com/drive/folders/1bhFtUAe4eMx1Wjl7u4BfBLXhbJy2oPJ8?usp=drive_link)
+
 ## Logistics
 
 Questions: Piazza\
