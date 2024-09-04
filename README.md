@@ -27,7 +27,7 @@ This course provides a place for students to practice the necessary mathematical
 | 1    | Wed: Aug 28 | Sets in python + linear algebra foundations [[Slides]](files/lecture_2.pptx) [[Colab notebook]](https://colab.research.google.com/drive/1h7FW-hC8QS3maw_zXN-3DuGEOHlalYr9?usp=sharing)                                                                      |                       |
 | 1    | Fri: Aug 30 | No recitation                                                                                   | [Homework 1](files/F24_10606_HW1_Template.pdf) due Sunday |
 | 2    | Mon: Sep 2  | No class (Labor day)                                                                            |                       |
-| 2    | Wed: Sep 4  | More linalg foundations + vector spaces                                                         |                       |
+| 2    | Wed: Sep 4  | More linalg foundations + vector spaces [[Slides]](files/lecture_3.pptx) [[Colab notebook]](https://colab.research.google.com/drive/1Oj8XMUWF5ApnHPU9kObXxmyMsakz6Gmd?usp=sharing)                                                         |                       |
 | 2    | Fri: Sep 6  | Recitation                                                                                      | [Homework 2](files/F24_10606_HW2_Template.pdf) due Sunday |
 | 3    | Mon: Sep 9  | Quiz 1 + part 1 of matrix ops                                                                   |                       |
 | 3    | Wed: Sep 11 | Matrix operations and Gaussian elimination                                                      |                       |
