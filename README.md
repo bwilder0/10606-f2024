@@ -29,8 +29,8 @@ This course provides a place for students to practice the necessary mathematical
 | 2    | Mon: Sep 2  | No class (Labor day)                                                                            |                       |
 | 2    | Wed: Sep 4  | More linalg foundations + vector spaces [[Slides]](files/lecture_3.pptx) [[Colab notebook]](https://colab.research.google.com/drive/1Oj8XMUWF5ApnHPU9kObXxmyMsakz6Gmd?usp=sharing)                                                         |                       |
 | 2    | Fri: Sep 6  | [Recitation](files/Recitation_Questions_6th_Sept.pdf)                                          | [Homework 2](files/F24_10606_HW2_Template.pdf) due Sunday |
-| 3    | Mon: Sep 9  | Quiz 1 + part 1 of matrix ops                                                                   |                       |
-| 3    | Wed: Sep 11 | Matrix operations and Gaussian elimination                                                      |                       |
+| 3    | Mon: Sep 9  | Quiz 1 + eigenvalues and eigenvectors [[Slides]](files/lecture_3.pptx)                                                                  |                       |
+| 3    | Wed: Sep 11 | Matrix operations and Gaussian elimination [[Slides]](files/lecture_4_5.pptx) [[Notes]](files/notes_matrices.pdf)                                                        |                       |
 | 3    | Fri: Sep 13 | Recitation                                                                                      | [Homework 3](files/F24_10606_HW3_Template.pdf) due Sunday |
 | 4    | Mon: Sep 16 | Matrix factorization, SVD, and linear regression                                                |                       |
 | 4    | Wed: Sep 18 | Matrix calculus [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) |                       |
