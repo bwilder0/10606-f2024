@@ -35,8 +35,8 @@ This course provides a place for students to practice the necessary mathematical
 | 4    | Mon: Sep 16 | Matrix factorization, SVD, and linear regression                                                |                       |
 | 4    | Wed: Sep 18 | Matrix calculus [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) |                       |
 | 4    | Fri: Sep 20 | Recitation                                                                                      | Homework 4 due Sunday |
-| 5    | Mon: Sep 23 | Quiz 2 + Convexity and optimization                                                             |                       |
-| 5    | Wed: Sep 25 | Linear regression and regularization                                                            |                       |
+| 5    | Mon: Sep 23 | Convexity and optimization, linear regression                                                             |                       |
+| 5    | Wed: Sep 25 | Quiz 2 + continue linear regression and regularization                                                            |                       |
 | 5    | Fri: Sep 27 | Recitation                                                                                      | Homework 5 due Sunday |
 | 6    | Mon: Sep 30 | Probability                                                                                     |                       |
 | 6    | Wed: Oct 2  | Joint, marginal, and conditional distributions                                                  |                       |
