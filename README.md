@@ -34,7 +34,7 @@ This course provides a place for students to practice the necessary mathematical
 | 3    | Fri: Sep 13 | Recitation                                                                                      | [Homework 3](files/F24_10606_HW3_Template.pdf) due Sunday |
 | 4    | Mon: Sep 16 | Matrix factorization, SVD, and linear regression                                                |                       |
 | 4    | Wed: Sep 18 | Matrix calculus [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) |                       |
-| 4    | Fri: Sep 20 | Recitation                                                                                      | Homework 4 due Sunday |
+| 4    | Fri: Sep 20 | Recitation                                                                                      | [Homework 4](files/F24_10606_HW4_Template.pdf) due Sunday |
 | 5    | Mon: Sep 23 | Convexity and optimization, linear regression                                                             |                       |
 | 5    | Wed: Sep 25 | Quiz 2 + continue linear regression and regularization                                                            |                       |
 | 5    | Fri: Sep 27 | Recitation                                                                                      | Homework 5 due Sunday |
