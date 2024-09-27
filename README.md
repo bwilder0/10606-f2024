@@ -37,7 +37,7 @@ This course provides a place for students to practice the necessary mathematical
 | 4    | Fri: Sep 20 | Recitation                                                                                      | [Homework 4](files/F24_10606_HW4_Template.pdf) due Sunday |
 | 5    | Mon: Sep 23 | Convexity and optimization, linear regression [[Slides]](files/lecture_8.pptx) [[Notes on critical points]](files/lecture_8_notes.pdf)                                                             |                       |
 | 5    | Wed: Sep 25 | Quiz 2 + gradient descent [[Colab notebook]](https://colab.research.google.com/drive/1Rn5TbWOO-Oc9PLwE_MigG6M_dQPTWQUu?usp=sharing)                                                            |                       |
-| 5    | Fri: Sep 27 | Recitation                                                                                      | [Homework 5](files/F24_10606_HW5_Template.pdf) due Sunday |
+| 5    | Fri: Sep 27 | [Recitation](files/TA_10606_Material (9).pdf)                                                                                      | [Homework 5](files/F24_10606_HW5_Template.pdf) due Sunday |
 | 6    | Mon: Sep 30 | Probability                                                                                     |                       |
 | 6    | Wed: Oct 2  | Joint, marginal, and conditional distributions                                                  |                       |
 | 6    | Fri: Oct 4  | Recitation                                                                                      | Homework 6 due Sunday |
