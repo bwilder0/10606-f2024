@@ -40,7 +40,7 @@ This course provides a place for students to practice the necessary mathematical
 | 5    | Fri: Sep 27 | [Recitation](files/TA_10606_Material_27th.pdf)                                                                                      | [Homework 5](files/F24_10606_HW5_Template.pdf) due Sunday |
 | 6    | Mon: Sep 30 | Probability [[Slides]](files/Lecture10.pptx)                                                                                     |                       |
 | 6    | Wed: Oct 2  | Joint, marginal, and conditional distributions [[Slides]](files/Lecture11.pptx)                                                  |                       |
-| 6    | Fri: Oct 4  | Recitation                                                                                      | [Homework 6](files/F24_10606_HW6_Template.pdf) due Sunday |
+| 6    | Fri: Oct 4  | Recitation                                                                                      | [Homework 6](files/F24_10606_HW6_Template(2).pdf) due Sunday |
 | 7    | Mon: Oct 7  | Bayes' rule, maximum likelihood and MAP estimators                                              |                       |
 | 7    | Wed: Oct 9  | Moments, independence, correlation + review                                                     |                       |
 | 7    | Fri: Oct 11 | Quiz 3                                                                                          | Homework 7 due Sunday |
