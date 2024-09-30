@@ -38,8 +38,8 @@ This course provides a place for students to practice the necessary mathematical
 | 5    | Mon: Sep 23 | Convexity and optimization, linear regression [[Slides]](files/lecture_8.pptx) [[Notes on critical points]](files/lecture_8_notes.pdf)                                                             |                       |
 | 5    | Wed: Sep 25 | Quiz 2 + gradient descent [[Colab notebook]](https://colab.research.google.com/drive/1Rn5TbWOO-Oc9PLwE_MigG6M_dQPTWQUu?usp=sharing)                                                            |                       |
 | 5    | Fri: Sep 27 | [Recitation](files/TA_10606_Material_27th.pdf)                                                                                      | [Homework 5](files/F24_10606_HW5_Template.pdf) due Sunday |
-| 6    | Mon: Sep 30 | Probability                                                                                     |                       |
-| 6    | Wed: Oct 2  | Joint, marginal, and conditional distributions                                                  |                       |
+| 6    | Mon: Sep 30 | Probability [[Slides]](files/Lecture10.pptx)                                                                                     |                       |
+| 6    | Wed: Oct 2  | Joint, marginal, and conditional distributions [[Slides]](files/Lecture11.pptx)                                                  |                       |
 | 6    | Fri: Oct 4  | Recitation                                                                                      | [Homework 6](files/F24_10606_HW6_Template.pdf) due Sunday |
 | 7    | Mon: Oct 7  | Bayes' rule, maximum likelihood and MAP estimators                                              |                       |
 | 7    | Wed: Oct 9  | Moments, independence, correlation + review                                                     |                       |
