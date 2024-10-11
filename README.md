@@ -43,4 +43,4 @@ This course provides a place for students to practice the necessary mathematical
 | 6    | Fri: Oct 4  | [Recitation](files/Recitation_10thOct.pdf)  [Answers](files/Recitation_Oct_Answers.pdf)                                                                                     | [Homework 6](files/F24_10606_HW6_Template(2).pdf) due Sunday |
 | 7    | Mon: Oct 7  | Bayes' rule, maximum likelihood and MAP estimators [[Slides]](files/lecture_12.pptx)                                               |                       |
 | 7    | Wed: Oct 9  | Moments, independence, correlation + review [[Notes]](files/notes_moments.pdf) [[Slides]](files/lecture_13.pptx)                                                     |                       |
-| 7    | Fri: Oct 11 | Quiz 3                                                                                          | [Homework 7](files/10_606_Homework_7___Latex_Template.pdf) due Sunday |
+| 7    | Fri: Oct 11 | Quiz 3                                                                                          | [Homework 7](files/F24_10606_HW7_Template.pdf) due Sunday |
